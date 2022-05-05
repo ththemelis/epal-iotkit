@@ -44,9 +44,9 @@ CoolTerm, το οποίο είναι δωρεάν για οποιονδήποτ�
 
 # Παραπομπές
 
--   
+-   [Arduino Education](https://www.arduino.cc/education/)
 
-# [Arduino Education](https://www.arduino.cc/education/)Περίοδος υλοποίησης
+# Περίοδος υλοποίησης
 
 Το έργο υλοποιήθηκε κατά την διάρκεια του δεύτερου τετραμήνου του
 σχολικού έτους 2021-2022.
@@ -77,5 +77,4 @@ CoolTerm, το οποίο είναι δωρεάν για οποιονδήποτ�
 
 Τηλέφωνο: 2467028206
 
-Email:
-[[mail@1epal-kastor.kas.sch.gr]{.underline}](https://github.com/ththemelis/epal-airquality/blob/main/mail@1epal-kastor.kas.sch.gr)
+Email: <mail@1epal-kastor.kas.sch.gr>
